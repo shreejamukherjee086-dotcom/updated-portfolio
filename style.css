@@ -170,12 +170,8 @@ body {
     border-color: rgba(255, 255, 255, 0.3);
 }
 
-.hero-image img {
-    width: 100%;
-    max-width: 420px;
-    height: auto;
-    filter: drop-shadow(0 15px 25px rgba(0, 0, 0, 0.4));
-}
+
+
 
 /* ==========================================================================
    Common Section Headers
