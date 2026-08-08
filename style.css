@@ -1541,3 +1541,10 @@ nav ul {
         grid-template-columns: 1fr;
     }
 }
+.hero-graphic img {
+    max-width: 100%;
+    width: 100%;
+    max-height: 400px;
+    object-fit: cover;
+    border-radius: 16px;
+}
