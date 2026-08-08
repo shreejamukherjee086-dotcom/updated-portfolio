@@ -1558,26 +1558,7 @@ nav ul {
 
 /* Profile Picture Fix and Styling */
 /* Fix Profile Photo Dimensions */
-.profile-img-wrapper {
-    width: 130px !important;
-    height: 130px !important;
-    border-radius: 50% !important;
-    overflow: hidden !important;
-    display: flex !important;
-    justify-content: center !important;
-    align-items: center !important;
-    border: 3px solid #8b5cf6 !important;
-    box-shadow: 0 0 20px rgba(139, 92, 246, 0.5) !important;
-    margin-bottom: 20px !important;
-}
 
-.profile-avatar {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;
-    object-position: center !important;
-    display: block !important;
-}
 /* ==========================================
    MOBILE & TABLET RESPONSIVE STYLES
    ========================================== */
