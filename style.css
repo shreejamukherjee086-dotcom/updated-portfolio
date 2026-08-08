@@ -1689,3 +1689,28 @@ nav ul {
         box-sizing: border-box !important;
     }
 }
+/* Perfectly Centered Circular Profile Avatar */
+.profile-img-wrapper {
+    width: 140px !important;
+    height: 140px !important;
+    min-width: 140px !important;
+    min-height: 140px !important;
+    border-radius: 50% !important;
+    overflow: hidden !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    border: 3px solid #8b5cf6 !important;
+    box-shadow: 0 0 25px rgba(139, 92, 246, 0.45) !important;
+    margin: 0 0 20px 0 !important;
+    box-sizing: border-box !important;
+}
+
+.profile-avatar {
+    width: 100% !important;
+    height: 100% !important;
+    object-fit: cover !important;
+    object-position: center top !important; /* Centers face in crop */
+    display: block !important;
+    border-radius: 50% !important;
+}
