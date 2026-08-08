@@ -1555,20 +1555,7 @@ nav ul {
     border-radius: 20px !important;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5) !important;
 }
-.profile-img-wrapper {
-    width: 120px;
-    height: 120px;
-    border-radius: 50%;
-    overflow: hidden;
-    display: inline-block;
-}
 
-.profile-avatar {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-}
 /* Profile Picture Fix and Styling */
 /* Fix Profile Photo Dimensions */
 .profile-img-wrapper {
